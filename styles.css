@@ -1,0 +1,19 @@
+.chirps {
+    width: 300px;
+    margin:  100px auto 20px;
+    text-align: center;
+  }
+  
+  #chirp-input {
+    width: 300px;
+    margin:  0 auto;
+    text-align: center;
+  }
+  
+  #chirp {
+    width: 300px;
+  }
+  
+  #chirp-input button {
+    margin-top: 10px;
+  }
